@@ -1,0 +1,15 @@
+E:\Patika\CSharpNetCore\whileForEach\bin\Debug\net6.0\whileForEach.exe
+E:\Patika\CSharpNetCore\whileForEach\bin\Debug\net6.0\whileForEach.deps.json
+E:\Patika\CSharpNetCore\whileForEach\bin\Debug\net6.0\whileForEach.runtimeconfig.json
+E:\Patika\CSharpNetCore\whileForEach\bin\Debug\net6.0\whileForEach.dll
+E:\Patika\CSharpNetCore\whileForEach\bin\Debug\net6.0\whileForEach.pdb
+E:\Patika\CSharpNetCore\whileForEach\obj\Debug\net6.0\whileForEach.csproj.AssemblyReference.cache
+E:\Patika\CSharpNetCore\whileForEach\obj\Debug\net6.0\whileForEach.GeneratedMSBuildEditorConfig.editorconfig
+E:\Patika\CSharpNetCore\whileForEach\obj\Debug\net6.0\whileForEach.AssemblyInfoInputs.cache
+E:\Patika\CSharpNetCore\whileForEach\obj\Debug\net6.0\whileForEach.AssemblyInfo.cs
+E:\Patika\CSharpNetCore\whileForEach\obj\Debug\net6.0\whileForEach.csproj.CoreCompileInputs.cache
+E:\Patika\CSharpNetCore\whileForEach\obj\Debug\net6.0\whileForEach.dll
+E:\Patika\CSharpNetCore\whileForEach\obj\Debug\net6.0\refint\whileForEach.dll
+E:\Patika\CSharpNetCore\whileForEach\obj\Debug\net6.0\whileForEach.pdb
+E:\Patika\CSharpNetCore\whileForEach\obj\Debug\net6.0\whileForEach.genruntimeconfig.cache
+E:\Patika\CSharpNetCore\whileForEach\obj\Debug\net6.0\ref\whileForEach.dll
